@@ -106,3 +106,13 @@ Enfin, Le Guide Michelin fait face à de nombreux nouveaux concurrents, qui sont
 
 Le guide paraît cependant très au clair sur ses propres limites et ne cesse d’innover pour tenter de rester à jour. Ainsi le guide papier est maintenant accompagné d’un site internet, et d’une application créée en 2009. Il crée également de nouvelles catégories (même si elles ne sont pas encore parfaites comme cela a été expliqué avant), comme le Bib Gourmand en 1997, l’Assiette Michelin, ou encore l'Étoile Verte récompensant les démarches écologiques dans la gastronomie apparue en 2020. Ses critères restent cependant très flous et on ne sait pas bien ce que les inspecteurs regardent, et comment ils procèdent aux vérifications. Cette nouvelle catégorie semble alors un peu fade comparé au label EcoTable spécialisé dans ce domaine. Le guide a donc encore du chemin à faire pour se réinventer et s’assurer de rester dans la compétition tout en répondant aux attentes de ses usagers.
 
+
+# Bibliographie
+
+Sites web :
+-          Site Du Guide Michelin – Restauration : Restaurants MICHELIN - Le Guide MICHELIN
+-          CROISET, Laure. SOUBRANNE, Quentin. Pourquoi le guide Michelin doit se réinventer. Challenges – Gastronomie. Mis en ligne le 05.02.2018. Consulté le 21.11.2022. Disponible sur : Pourquoi le guide Michelin doit se réinventer, alors que le chef Sébastien Bras a décidé de quitter le Guide - Challenges
+-          CRESPIM BIDARRA, Baptiste. Le Guide Michelin fait-il toujours rêver la nouvelle génération de chefs ? Atabula – Décryptage. Mis en ligne le 07.03.2022. Consulté le 21.11.2022. Disponible sur : Le Guide Michelin fait-il toujours rêver la nouvelle génération de chefs ? - ATABULA - Edition générale
+-          DELBECQUE, Céline. Le Guide Michelin fait-il toujours rêver ? L’Express – Actualité – Société. Mis en ligne le 17.01.2020. Consulté le 21.11.2022. Disponible sur : Le Guide Michelin fait-il toujours rêver? - L'Express (lexpress.fr)
+-          PRZYMIRSKI, Océanne Alisson. Macaron ou étoile, assiette… : Comprendre le Guide Michelin. Le journal des femmes – Cuisine. Mis en ligne le 29.06.2022. Consulté le 21.11.2022. Disponible sur : Macaron ou étoile, assiette...: comprendre le Guide Michelin (journaldesfemmes.fr)
+-          Radio France. Marc Veyrat attaque le guide Michelin en justice. France Info - Culture. Mis en ligne le 23.09.2019. Consulté le 21.11.2022. Disponible sur : Marc Veyrat attaque le guide Michelin en justice : "J'ai été déshonoré. C'est une offense profonde. J'ai fait une dépression" (francetvinfo.fr)
