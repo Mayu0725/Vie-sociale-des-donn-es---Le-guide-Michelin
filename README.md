@@ -107,6 +107,10 @@ Enfin, Le Guide Michelin fait face à de nombreux nouveaux concurrents, qui sont
 Le guide paraît cependant très au clair sur ses propres limites et ne cesse d’innover pour tenter de rester à jour. Ainsi le guide papier est maintenant accompagné d’un site internet, et d’une application créée en 2009. Il crée également de nouvelles catégories (même si elles ne sont pas encore parfaites comme cela a été expliqué avant), comme le Bib Gourmand en 1997, l’Assiette Michelin, ou encore l'Étoile Verte récompensant les démarches écologiques dans la gastronomie apparue en 2020. Ses critères restent cependant très flous et on ne sait pas bien ce que les inspecteurs regardent, et comment ils procèdent aux vérifications. Cette nouvelle catégorie semble alors un peu fade comparé au label EcoTable spécialisé dans ce domaine. Le guide a donc encore du chemin à faire pour se réinventer et s’assurer de rester dans la compétition tout en répondant aux attentes de ses usagers.
 
 
+# Annexe : 
+Lien vers nos entretiens : (https://drive.google.com/drive/folders/1o9HBfqsu37rVlF_BlzYzLVEn2IvoxSao?usp=share_link)  
+
+
 # Bibliographie
 
 Sites web :
